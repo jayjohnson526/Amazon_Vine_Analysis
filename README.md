@@ -35,6 +35,12 @@ Using Pandas and Pyspark to analyze the data, we find that less than 2% of Vine 
 
 Assuming that the 98% of Vine reviewers without verified purchases recieved the item for free as compensation for their feedback, we can say that this did not signficantly impact their likelihood to provide a five-star review compared to non-Vine reviewers.
 
+To expand our analysis from five-star ratings, we found the average star rating for Vine and non-Vine reviews:
+
+![](images/avg_rating.png)
+
+While Vine reviewers were not more likely to give a five-star review, they are more likely to give a higher rated review than non-Vine reviewers.
+
 
 ## References
 1. “Amazon (Company).” Wikipedia, Wikimedia Foundation, 17 Mar. 2021, en.wikipedia.org/wiki/Amazon_(company). 
