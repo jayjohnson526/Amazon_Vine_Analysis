@@ -13,14 +13,14 @@ For this project, we are analyzing reviews for Amazon outdoor products to determ
 
 !["Results Summary"](images/vine_results_df.png)
 
-* *Total Number of Reviews*: There were a total of 107 reviews with Vines, and 39,869 reviews without Vines for outdoor products.
+* **Total Number of Reviews*: There were a total of 107 reviews with Vines, and 39,869 reviews without Vines for outdoor products.
 
-* *Five Star Reviews*: A total of 56 reviews with Vines, and 21,005 reviews without Vines gave the product a five-star review.
+* **Five Star Reviews*: A total of 56 reviews with Vines, and 21,005 reviews without Vines gave the product a five-star review.
 
-* *Percentage of Five Star Reviews*: 52.34% of reviews with Vines gave the product a five-star review and 52.69% of reivews without Vines gave the product a five-star review.
+* **Percentage of Five Star Reviews*: 52.34% of reviews with Vines gave the product a five-star review and 52.69% of reivews without Vines gave the product a five-star review.
 
 ## Summary
-#### Five Star Review Comparison
+#### *Five Star Review Comparison*
 Are Vine reviewers more likely to give a five-star review because of the free promotional products they recieve? 
 
 From our analysis, the answer is no. Both reviews with Vines and reviews without Vines gave about 52% five-star ratings. 
@@ -37,7 +37,7 @@ Using Pandas and Pyspark to analyze the data, we find that less than 2% of Vine 
 Assuming that the 98% of Vine reviewers without verified purchases recieved the item for free as compensation for their feedback, we can say that this did not signficantly impact their likelihood to provide a five-star review compared to non-Vine reviewers.
 
 
-### Average Review Rating Comparison
+#### *Average Review Rating Comparison*
 To expand our analysis from five-star ratings, we found the average star rating for Vine and non-Vine reviews:
 
 ![](images/avg_rating.png)
